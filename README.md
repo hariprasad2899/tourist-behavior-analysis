@@ -23,7 +23,7 @@ This project analyzes tourist behavior by processing photo metadata from social 
 ## 📁 Project Structure
 
 ```
-Big Data Project/
+Tourist Behavior Analysis/
 ├── GROUP_1.ipynb                          # Main Jupyter notebook with all analysis
 ├── Filtered1M.csv                         # Raw San Francisco dataset
 ├── fullindia.csv                          # Raw India dataset
@@ -41,7 +41,7 @@ Big Data Project/
 ├── india_optics_after_clusters.png       # India: After OPTICS clustering
 ├── india_arrivalOfTouristsInParticularMonth.png  # India: Seasonal trends
 ├── india_averageNoOfTouristsInParticularMonth.png # India: Monthly averages
-└── README.md                              # This file
+README.md                              # This file
 ```
 
 ## 🔧 Technologies Used
