@@ -1,4 +1,4 @@
-# Big Data Analytics: Tourist Behavior Analysis
+# Tourist Behavior Analysis
 
 A comprehensive big data analytics project that analyzes tourist behavior patterns using photo metadata from Flickr. This project performs geospatial clustering and seasonal trend analysis on tourist activity data from San Francisco and India to identify popular locations and temporal patterns.
 
